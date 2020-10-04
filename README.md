@@ -14,15 +14,15 @@ The output would be a comma (or tab) separated value with as many lines as there
 world. The required columns are
 
 1.country name or code  
-2.group label (from 0 to 9)
-3.group’s average GDP per capita
-4.country’s GDP per capita
-5.country’s total GDP
-6.cumulative GDP fraction (0 to 1) within the group (after ordering; see next paragraph)
+2.group label (from 0 to 9)  
+3.group’s average GDP per capita  
+4.country’s GDP per capita  
+5.country’s total GDP  
+6.cumulative GDP fraction (0 to 1) within the group (after ordering; see next paragraph)  
 
-The data should be ordered according to the following hierarchy:
-1.group’s average GDP per capita
-2.country’s total GDP
+The data should be ordered according to the following hierarchy:  
+1.group’s average GDP per capita  
+2.country’s total GDP  
 
 This means that the group with the highest average GDP per capita should be at the beginning (top) of
 the data structure, and the group with the lowest GDP per capita at the end (bottom). Then, within
