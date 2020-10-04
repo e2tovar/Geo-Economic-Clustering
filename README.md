@@ -1,7 +1,5 @@
 # Geo-Economic-Clustering
 
-Geo-economic Clustering
-
 A company has decided to expand and open new markets, and the CEO has asked the Data Science team to
 help define the strategy by classifying all countries in the world in different geo-economic groups.
 The task at hand is to classify all countries in the world in 10 different groups according to the
